@@ -1,0 +1,52 @@
+State ,Avg_Gas_Price,Division,Median Household Income,State_Code
+Alabama ,2.2,Pacific,55935.00,AK
+Alaska ,2.95,East_South_Central,78038.00,AL
+Arizona ,2.77,West_South_Central,70080.00,AR
+Arkansas ,2.21,Mountain,54322.00,AZ
+California ,3.49,Pacific,78002.00,CA
+Colorado ,2.4,Mountain,72400.00,CO
+Connecticut ,2.56,New_England,87005.00,CT
+Delaware ,2.39,South_Atlantic,74051.00,DC
+District of Columbia ,2.61,South_Atlantic,93000.00,DE
+Florida ,2.4,South_Atlantic,58150.00,FL
+Georgia ,2.3,South_Atlantic,56480.00,GA
+Hawaii ,3.58,Pacific,88101.00,HI
+Idaho ,2.51,East_North_Central,65326.00,IL
+Illinois ,2.65,East_North_Central,74030.00,IN
+Indiana ,2.36,West_North_Central,66882.00,IA
+Iowa ,2.34,Mountain,65635.00,ID
+Kansas ,2.23,West_North_Central,73110.00,KS
+Kentucky ,2.31,East_South_Central,55520.00,KY
+Louisiana ,2.18,West_South_Central,51760.00,LA
+Maine ,2.45,New_England,65800.00,MA
+Maryland ,2.44,South_Atlantic,95310.00,MD
+Massachusetts ,2.49,New_England,87264.00,ME
+Michigan ,2.43,East_North_Central,63769.00,MI
+Minnesota ,2.36,West_North_Central,81260.00,MN
+Mississippi ,2.15,West_North_Central,44092.00,MO
+Missouri ,2.19,East_South_Central,60010.00,MS
+Montana ,2.43,Mountain,60000.00,MT
+Nebraska ,2.37,New_England,73000.00,NH
+Nevada ,2.91,South_Atlantic,70627.00,NC
+New Hampshire ,2.4,Middle_Atlantic,86800.00,NJ
+New Jersey ,2.52,Mountain,87352.00,NM
+New Mexico ,2.37,Middle_Atlantic,53021.00,NY
+New York ,2.62,West_North_Central,71300.00,ND
+North Carolina ,2.31,West_North_Central,60300.00,NE
+North Dakota ,2.35,Mountain,70000.00,NV
+Ohio ,2.38,East_North_Central,64782.00,OH
+Oklahoma ,2.21,West_South_Central,59303.00,OK
+Oregon ,2.98,Pacific,73900.00,OR
+Pennsylvania ,2.68,Middle_Atlantic,69913.00,PA
+Rhode Island ,2.48,New_England,70002.00,RI
+South Carolina ,2.21,South_Atlantic,61476.00,SC
+South Dakota ,2.39,West_North_Central,63600.00,SD
+Tennessee ,2.24,East_South_Central,56615.00,TN
+Texas ,2.16,West_South_Central,67280.00,TX
+Utah ,2.49,Mountain,84517.00,UT
+Vermont ,2.58,South_Atlantic,73800.00,VA
+Virginia ,2.24,New_England,81000.00,VT
+Washington ,3.09,Pacific,82175.00,WA
+West Virginia ,2.4,East_North_Central,53520.00,WI
+Wisconsin ,2.37,South_Atlantic,67163.00,WV
+Wyoming ,2.48,Mountain,64587.00,WY
